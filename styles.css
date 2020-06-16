@@ -20,7 +20,7 @@ h1 {
 }
 
 h2 {
-  color: ##b1967c;
+  color: grey;
   font-family: "Varela Round", "Arial Black", serif;
   font-weight: normal;
   font-size: 2.2em;
@@ -30,10 +30,10 @@ h2 {
   margin: 0;
 }
 
-p {
+p, address {
   font-family: "Palatino Linotype", "Baskerville", serif;
   font-size: 1.25em;
-  color: #616161;
+  color: grey;
   line-height: 150%;
   margin-top: 10px;
   margin-left: 60px;
@@ -46,5 +46,4 @@ p {
   margin-left: 0;
   margin-bottom: 25px;
 }
-
 
