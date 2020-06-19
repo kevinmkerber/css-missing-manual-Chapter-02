@@ -72,3 +72,18 @@ p, address {
   margin-right: auto;
   width: 80%;  
 }
+
+#boldRed {
+  color: red;
+}
+
+#banner {
+  background: #365680;
+  height: 300px;
+  width: 720px;
+  text-align: bottom;
+}
+
+* {
+  color: green;
+}
